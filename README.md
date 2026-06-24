@@ -26,5 +26,5 @@ The uploaded video demonstrates the robot following the designated path.
 ## Author
 
 Samannay Mondal
-B.Tech ECE
+B.Tech EIE
 NIT Rourkela
