@@ -17,11 +17,16 @@ This project implements an autonomous Line Following Robot using Arduino and IR 
 
 ### Robot Photo
 
-(Add the uploaded photo here)
+![Robot](robot_photo.jpg)
+
 
 ### Robot Video
 
+## Demonstration Video
+
+[Watch the Robot Demo](robot_demo.mp4)
 The uploaded video demonstrates the robot following the designated path.
+
 
 ## Author
 
